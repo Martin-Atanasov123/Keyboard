@@ -18,10 +18,9 @@ body {
     padding: 4em;
     border-radius: 2em;
     height: 400px;
-   
     position: absolute;
     top: 25%;
-    left: 25%; 
+    left: 22%; 
     border: 1px solid black;
 }
 
