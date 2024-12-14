@@ -44,10 +44,35 @@ button:hover{
 
 .row1 {
     display: flex;
-    width: 1em;
-    gap: 8px;
-
+    gap: 6px;   
 }
+
+.row2 {
+    display: flex;
+    gap: 10.4px;
+}
+.row3 {
+    display: flex;
+    gap: 11.5px;
+}
+
+.row4 {
+    display: flex;
+    gap: 11.8px;
+}
+
+.row5 {
+    display: flex;
+    gap: 4.6px;
+}
+
+.row6 {
+    display: flex;
+    gap: 1px;
+}
+
+
+
 
 /* styling individual buttons */
 .backslash{
