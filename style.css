@@ -33,7 +33,7 @@ body {
     padding-top: 7px;
     padding-bottom: 7px;
     color: aqua;
-    border-radius: 1em;
+    border-radius: 12px;
     margin-bottom: 10px;
     cursor: pointer; 
 }
@@ -67,7 +67,7 @@ button:hover{
 
 .row6 {
     display: flex;
-    gap: 1px;
+    gap: 5.2px;
 }
 
 
@@ -103,7 +103,7 @@ button:hover{
     width: 3em;
 }
 .space{
-    width:18.6em;
+    width:17.6em;
 }
 /* 
 .backspace{
