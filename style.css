@@ -43,31 +43,42 @@ button:hover{
 
 .row1 {
     display: flex;
-    gap: 6px;   
+    gap: 6.4px;  
+
+
 }
 
 .row2 {
     display: flex;
     gap: 10.4px;
+
+
 }
 .row3 {
     display: flex;
     gap: 11.5px;
+
+
 }
 
 .row4 {
     display: flex;
-    gap: 11.8px;
+    gap: 10.9px;
+
+
 }
 
 .row5 {
     display: flex;
-    gap: 4.6px;
+    gap: 9px;
+
+
 }
 
 .row6 {
     display: flex;
-    gap: 5.2px;
+    gap: 9.2px;
+
 }
 
 
@@ -75,26 +86,26 @@ button:hover{
 
 /* styling individual buttons */
 .backslash{
-    width: 4em;
+    width: 100px;
 }
 .tab{
     width: 4em;
 }
 
 .caps{
-    width: 5em;
+    width: 5.5em;
 }
 .enter{
     width: 6em;
 
 }
 .shift{
-    width:6.4em;
+    width:7em;
 }
 
 
 .ctrl{
-    width: 4.5em;
+    width: 4em;
 }
 /* .win{
     width: 3em;
@@ -123,7 +134,7 @@ button:hover{
 
 
 .backspace img {
-    width: 20px; /* Set image width */
+    width: 23px; /* Set image width */
     height: 20px; /* Set image height */
     margin-right: 0.5em; /* Add space between image and text */
 }
