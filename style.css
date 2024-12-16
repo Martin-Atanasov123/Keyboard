@@ -55,7 +55,7 @@ body {
     border: 2px solid #444;
     background-color: #0f0303;
     color: red;
-    opacity: 80%;
+    opacity: 90%;
     animation: rgbText 6s infinite linear;
 }
 button:hover{
@@ -153,4 +153,14 @@ button:hover{
     margin-right: 0.5em; /* Add space between image and text */
 }
 
-
+.describtion{
+    text-align: center;
+    border: 3px solid black;
+    font-weight: bold;
+    background-color: rgb(241, 178, 94);
+    border-radius: 10px;
+    font-size: 1em;
+    width: 22em;
+    padding: 1em;
+    margin: 2em;
+}
